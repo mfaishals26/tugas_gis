@@ -1,0 +1,169 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Universitas Nusa Putra (Gedung a)"
+      },
+      "geometry": {
+        "coordinates": [
+          106.8731069605451,
+          -6.905337549550794
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Universitas Nusa Putra (Gedung B)"
+      },
+      "geometry": {
+        "coordinates": [
+          106.87302117875339,
+          -6.904699594720896
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Masjid Rouddhatul Irfan"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              106.87311808821153,
+              -6.905703666417693
+            ],
+            [
+              106.87287416037401,
+              -6.906017047556958
+            ],
+            [
+              106.87326157517492,
+              -6.906254457372853
+            ],
+            [
+              106.87345767402468,
+              -6.905922083597218
+            ],
+            [
+              106.87311808821153,
+              -6.905703666417693
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Masjid Rouddhatul Irfan"
+      },
+      "geometry": {
+        "coordinates": [
+          106.87320418038996,
+          -6.905960069183806
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Universitas Nusa Putra (Gedung a)"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              106.8729997384956,
+              -6.905498193398756
+            ],
+            [
+              106.87313887336671,
+              -6.905516601986648
+            ],
+            [
+              106.8731620869168,
+              -6.90519909086116
+            ],
+            [
+              106.87303054345978,
+              -6.905173485115881
+            ],
+            [
+              106.8729997384956,
+              -6.905498193398756
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Universitas Nusa Putra (Gedung b)"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              106.87291428941222,
+              -6.904780208228374
+            ],
+            [
+              106.87313292523885,
+              -6.904780208230989
+            ],
+            [
+              106.87310713240328,
+              -6.904483181237524
+            ],
+            [
+              106.87288531402709,
+              -6.9044626966102385
+            ],
+            [
+              106.87291428941222,
+              -6.904780208228374
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Jalan Bayangkara"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.87281175907748,
+            -6.9056365857896225
+          ],
+          [
+            106.87347361925521,
+            -6.905606201579175
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 6
+    }
+  ]
+}
